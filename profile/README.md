@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Qutra-SI/.github/main/assets/qutra-si-logo.png" alt="Qutra SI" width="220">
-</p>
-
 <p align="center"><b>A local-first personal AI assistant for the desktop.</b></p>
 
 Qutra lives on your computer. It knows your preferences, looks at your screen when you ask,
